@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "1st Period",
+    "window_start": "09:15",
+    "window_end": "09:20",
+    "late_end": "09:50"
+  },
+  {
+    "id": 2,
+    "name": "2nd Period",
+    "window_start": "10:50",
+    "window_end": "10:55",
+    "late_end": "11:25"
+  },
+  {
+    "id": 3,
+    "name": "3rd Period",
+    "window_start": "13:20",
+    "window_end": "13:25",
+    "late_end": "14:00"
+  },
+  {
+    "id": 4,
+    "name": "4th Period",
+    "window_start": "16:00",
+    "window_end": "16:15",
+    "late_end": "16:45"
+  },
+  {
+    "id": 5,
+    "name": "Lunch Period",
+    "window_start": "13:00",
+    "window_end": "13:05",
+    "late_end": "13:30"
+  }
+]
